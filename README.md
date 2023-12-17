@@ -6,3 +6,5 @@ The application uses a combination of Langchain.llms, OpenAI, Langchain.prompts,
 them.
 
 I am absolutely thrilled with the results of my work, and I am continuing to learn and grow as I explore the potential of this incredible technology. My application is just the beginning of what the possibilities are when you combine the power of Python, Langchain, and OpenAI. 
+
+![image](https://github.com/shaghil65/DiscoverCarApp/assets/64488880/74c655bc-c342-4aee-bc06-a84a16fc44cf)
